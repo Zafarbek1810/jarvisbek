@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jarvis-local": {
+      "command": "/bin/sh",
+      "args": ["/Users/fourcade7/Desktop/jarvis2/infrastructure/scripts/mcp.sh"]
+    }
+  }
+}

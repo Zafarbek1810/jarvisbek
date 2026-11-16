@@ -1,0 +1,15 @@
+node_modules
+**/node_modules
+**/.next
+**/.expo
+.venv
+.env
+.env.local
+.git
+.runtime
+**/__pycache__
+**/.pytest_cache
+
+**/.env
+**/.env.local
+**/.env.*.local

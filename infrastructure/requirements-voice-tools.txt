@@ -1,0 +1,2 @@
+# Optional model conversion only; not needed by the running API.
+safetensors==0.8.0
